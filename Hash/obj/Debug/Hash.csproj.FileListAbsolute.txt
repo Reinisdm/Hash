@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\bin\Debug\Hash.exe.config
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\bin\Debug\Hash.exe
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\bin\Debug\Hash.pdb
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.Form1.resources
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.Properties.Resources.resources
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.exe
+C:\Users\User\Desktop\csharp\uzd1\Hash\Hash\obj\Debug\Hash.pdb
